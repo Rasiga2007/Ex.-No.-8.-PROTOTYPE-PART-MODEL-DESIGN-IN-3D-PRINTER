@@ -46,9 +46,12 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+<img width="829" height="429" alt="Screenshot 2026-03-23 204905" src="https://github.com/user-attachments/assets/eaa9a331-6726-4d99-9e1d-db82042a7f6c" />
 
-### Name:
-### Register Number:
+<img width="826" height="438" alt="image" src="https://github.com/user-attachments/assets/498d1b23-250a-4852-a776-f2875746a0bb" />
+
+### Name: RASIGA S
+### Register Number:212225220081
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
